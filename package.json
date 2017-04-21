@@ -1,0 +1,24 @@
+{
+  "name": "pse",
+  "version": "0.0.1",
+  "description": "get the current stock value listed in the philippine stock exchange (PSE)",
+  "main": "pse.js",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cli-table2": "^0.2.0",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pse",
+    "philippine stock exchange",
+    "phisix",
+    "psei"
+  ],
+  "author": "gremdev",
+  "license": "MIT",
+  "preferGlobal": "true"
+}
