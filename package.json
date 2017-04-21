@@ -9,8 +9,15 @@
     "commander": "^2.9.0"
   },
   "devDependencies": {},
+  "bin": {
+    "pse" : "pse.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gremdev/pse.git"
   },
   "keywords": [
     "pse",
@@ -18,7 +25,11 @@
     "phisix",
     "psei"
   ],
-  "author": "gremdev",
+  "author": "grem",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gremdev/pse/issues"
+  },
+  "homepage": "https://github.com/gremdev/pse#readme",
   "preferGlobal": "true"
 }
